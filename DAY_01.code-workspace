@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "../DAY_01"
+		},
+		{
+			"path": "../ODEVLER"
+		},
+		{
+			"path": "../DAY_02"
+		},
+		{
+			"path": "../DAY_03"
+		},
+		{
+			"path": "../DAY_04"
+		},
+		{
+			"path": "../DAY_05"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "DAY_05"
+	}
+}
